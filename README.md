@@ -43,7 +43,3 @@
 </div>
 
 ###
-
-<img href="https://raw.githubusercontent.com/demoum/demoum/blob/output/snake.svg" alt="Snake animation" />
-
-###
