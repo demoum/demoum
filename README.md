@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Tenho experiência com Software de automação bancária.<br>Canais: Internet Banking, Mobile e ATM.</p>
+<p align="left">Trabalho com Software de automação bancária.<br>Canais: Internet Banking, Mobile e ATM.</p>
 
 ###
 
