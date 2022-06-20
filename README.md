@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Realizo tarefas como Testes Automatizados utilizando o Cypress e Desenvolvimento de aplicações Web.<br>Estou sempre buscando aprender novas tecnologias para elevar minhas Skills Desenvolvimento de Software.</p>
+<p align="left">Tenho experiência com Software de automação bancária.<br>Canais: Internet Banking, Mobile e ATM.</p>
 
 ###
 
@@ -26,6 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
+
+###
+
+<p align="left">Contatos</p>
 
 ###
 
