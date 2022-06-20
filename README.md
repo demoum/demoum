@@ -1,4 +1,4 @@
-<h1 align="left">Matheus Moura</h1>
+<h2 align="left">Matheus Moura</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h3 align="left">Sobre mim</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Ferramentas e Tecnologias</h2>
+<h3 align="left">Ferramentas e Tecnologias</h3>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Contatos</p>
+<h3 align="left">Contatos</h3>
 
 ###
 
