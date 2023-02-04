@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Automation Test Developer.<br>📚 Formado em Gestão de TI - Universidade Paulista.<br>💻 Trabalho em uma empresa, que desenvolve software para automação bancária.</p>
+<p align="left">👨‍💻 Automation Test.<br>📚 Formado em Gestão de TI - Universidade Paulista.<br>💻 Trabalho em uma empresa, que desenvolve software para automação bancária.</p>
 
 ###
 
